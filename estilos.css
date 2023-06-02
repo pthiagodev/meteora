@@ -1,4 +1,4 @@
-.divs-facilidade {
+.divs-facilidade, .div-novidades {
     width: 325px;
 }
 
@@ -13,4 +13,12 @@
 
 .btn-lilas {
     background-color: #9353FF !important;
+}
+
+@media(min-width: 768px) {
+
+    .div-novidades {
+        width: 696px;
+    }
+
 }
