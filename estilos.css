@@ -1,7 +1,16 @@
-.texto-menor {
-    font-size: 13px;
-}
-
 .divs-facilidade {
     width: 325px;
+}
+
+.icone, .texto-maior {
+    color: #DAFF01;
+}
+
+.texto-menor {
+    font-size: 13px;
+    color: #FFFFFF;
+}
+
+.btn-ver-mais {
+    background-color: #9353FF !important;
 }
